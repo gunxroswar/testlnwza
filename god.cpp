@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout << "God";
+    cout << "God is Thirachai";
     return 0;
 }
